@@ -4,15 +4,85 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>JLNetLib.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>JLNetMobile.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>Networking.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>5245D6C918D10D760023EF94</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5247F93D18FF541600232E7F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5247F94C18FF541600232E7F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5247F96A18FF559F00232E7F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5247F97918FF559F00232E7F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5247F99418FF561900232E7F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5247F9AB18FF561900232E7F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5248498A18D13B77000D7089</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5248499718D13C6C000D7089</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>524849A618D142B9000D7089</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>524849B518D142B9000D7089</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>524849D218D143F4000D7089</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -7,12 +7,18 @@
 //
 
 #include <stdio.h>
+#include "JLNet.h"
 
-int main(int argc, const char * argv[])
-{
-
-    // insert code here...
-    printf("Hello, World!\n");
+int main(){
+    
+    printf("Send or recieve (s/r): ");
+    unsigned char sendrecieve = getc(stdin);
+    
+    if (sendrecieve == 's')
+        senddata("What are you doing?", "127.0.0.1", 2343);
+    
+    else
+        printf("I got a message: %s\n", recvdata(2343));
+    
     return 0;
 }
-
